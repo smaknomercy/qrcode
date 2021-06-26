@@ -1,4 +1,4 @@
-# qr code generator
+# QR Code Generator
 ![alt text](cover.png)
 
 To start it:
